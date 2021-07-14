@@ -14,7 +14,8 @@ Linux则是由linus torvalds在1991年赫尔辛基大学上学时，出于对操
 
 #### Linux内核与Linux内核发行版
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628204914566.png" alt="image-20210628204914566" style="zoom: 67%;" />
+![image-20210628204914566](https://user-images.githubusercontent.com/41976490/125656480-eb5521ef-8c04-4a36-ba0f-2207a39f4587.png)
+
 
 #### 常见的Linux发行版
 
@@ -48,11 +49,11 @@ vim /etc/ssh/sshd_config
 
 FHS全称Filesystem Hierarchy Standard，中文名文件系统结构层次，定义了Linux操作系统中的主要目录和目录结构。 FHS由Linux基金会维护，当前当前版本是3.0
 
-![image-20210628200913315](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628200913315.png)
+![image-20210628200913315](https://user-images.githubusercontent.com/41976490/125656801-80a3ecb2-36c1-4c29-8aa1-7d82de2b98fa.png)
 
 
 
-![image-20210628201031959](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628201031959.png)
+![image-20210628201031959](https://user-images.githubusercontent.com/41976490/125656837-77edf6df-95df-4439-a00e-45a1f10ffe8f.png)
 
 
 
@@ -60,13 +61,13 @@ FHS全称Filesystem Hierarchy Standard，中文名文件系统结构层次，定
 
 Linux中一切皆文件
 
-![image-20210628201548220](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628201548220.png)
+![image-20210628201548220](https://user-images.githubusercontent.com/41976490/125656866-45982415-64d7-45a9-85a7-030ca62e87e3.png)
 
 #### 简单介绍man系统
 
 man系统其实是linux中的manual手册系统，大多数程序会自带手册，所以当一个命令不会使用的时候不妨查查手册
 
-![image-20210628202220356](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628202220356.png)
+![image-20210628202220356](https://user-images.githubusercontent.com/41976490/125656890-0c5e1680-b719-422d-8fb4-4c1a7183cd51.png)
 
 ### 4. Linux服务与日志
 
@@ -89,7 +90,7 @@ man系统其实是linux中的manual手册系统，大多数程序会自带手册
 
 systemd是一种init程序，用于初始化系统，提供了对服务的管理方式。
 
-![image-20210628203105760](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628203105760.png)
+![image-20210628203105760](https://user-images.githubusercontent.com/41976490/125656920-f0d0555b-4c50-47e5-8428-26bffeb99ca9.png)
 
 #### 日志与日志的查询方式
 
@@ -97,7 +98,7 @@ systemd是一种init程序，用于初始化系统，提供了对服务的管理
 
 systemd同样也提供了对日志访问的方式
 
-![image-20210628203435754](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628203435754.png)
+![image-20210628203435754](https://user-images.githubusercontent.com/41976490/125656966-7043e412-1140-43cd-8774-dd6e41f26249.png)
 
 
 
@@ -105,7 +106,7 @@ systemd同样也提供了对日志访问的方式
 
 通过直接查看文本的方式查询
 
-![image-20210628203629124](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210628203629124.png)
+![image-20210628203435754](https://user-images.githubusercontent.com/41976490/125656972-1f548507-d03f-47f0-87ab-370460a8e4b9.png)
 
 
 
@@ -119,11 +120,11 @@ systemd同样也提供了对日志访问的方式
 
 #### Debian
 
-![image-20210701154933922](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701154933922.png)
+![image-20210701154933922](https://user-images.githubusercontent.com/41976490/125656983-aa547643-1c03-4184-a2c4-e17943196637.png)
 
 #### Ubuntu
 
-![image-20210701155050509](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701155050509.png)
+![image-20210701155050509](https://user-images.githubusercontent.com/41976490/125657000-e9774fd1-7b9a-420d-804f-e4f132afbe4a.png)
 
 
 
@@ -133,25 +134,25 @@ systemd同样也提供了对日志访问的方式
 
 #### RHEL(Red Hat Enterprise Linux)
 
-![image-20210701155526762](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701155526762.png)
+![image-20210701155526762](https://user-images.githubusercontent.com/41976490/125657023-1a9ac05d-c9f3-42bb-bb97-82a0ef82837b.png)
 
 
 
 #### Fedora
 
-![image-20210701155623150](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701155623150.png)
+![image-20210701155623150](https://user-images.githubusercontent.com/41976490/125657034-b44e385b-eaa7-4d89-ac8e-2478fbd3a8bf.png)
 
 
 
 #### Centos
 
-![image-20210701155720005](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701155720005.png)
+![image-20210701155720005](https://user-images.githubusercontent.com/41976490/125657059-cee8a5de-aafb-45e8-bfc2-fb483af02a1d.png)
 
 
 
 #### Anolis OS
 
-![image-20210701155909953](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701155909953.png)
+![image-20210701155909953](https://user-images.githubusercontent.com/41976490/125657077-e9c3f6fc-a0cb-4ae3-9c92-86fd2e7f7c6c.png)
 
 
 
@@ -159,19 +160,19 @@ systemd同样也提供了对日志访问的方式
 
 #### Arch Linux
 
-![image-20210701160017013](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701160017013.png)
+![image-20210701160017013](https://user-images.githubusercontent.com/41976490/125657119-5271a2e3-58b2-4c3b-8aab-0dad6bea6d80.png)
 
 
 
 #### Gentoo Linux
 
-![image-20210701160137356](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701160137356.png)
+![image-20210701160137356](https://user-images.githubusercontent.com/41976490/125657136-bd5454aa-605f-4eff-bb1a-ba175a31c3e3.png)
 
 
 
 #### Linux from scratch
 
-![image-20210701160339109](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701160339109.png)
+![image-20210701160339109](https://user-images.githubusercontent.com/41976490/125657143-47c7da09-0421-4796-bf95-c19cd24bd7d6.png)
 
 
 
@@ -206,7 +207,7 @@ systemd同样也提供了对日志访问的方式
 
 **1946-1954 电子管时代**
 
-![image-20210701162949062](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701162949062.png)
+![image-20210701162949062](https://user-images.githubusercontent.com/41976490/125657158-f05e7c26-e38d-4618-bdc7-c46a2da5956b.png)
 
 
 
@@ -214,23 +215,23 @@ systemd同样也提供了对日志访问的方式
 
 
 
-![image-20210701163125947](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701163125947.png)
+![image-20210701163125947](https://user-images.githubusercontent.com/41976490/125657363-81850a35-61f2-4f6e-a68f-a79935a2dc1e.png)
 
-![image-20210701163201995](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701163201995.png)
+![image-20210701163201995](https://user-images.githubusercontent.com/41976490/125657372-d7cdcf75-76e6-497e-8b51-0680f852a87d.png)
 
 **1970年至今**
 
 
 
-![image-20210701163238251](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701163238251.png)
+![image-20210701163238251](https://user-images.githubusercontent.com/41976490/125657213-d8a41fe2-c17a-4591-adf1-2cf7a1d94e28.png)
 
-![image-20210701163248308](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701163248308.png)
+![image-20210701163248308](https://user-images.githubusercontent.com/41976490/125657224-17912c46-46d7-462a-a31b-a3375220a3d5.png)
 
 
 
 #### 2. 企业使用服务器的历史
 
-![image-20210701163433683](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701163433683.png)
+![image-20210701163433683](https://user-images.githubusercontent.com/41976490/125657234-00a0b152-8b37-4f1a-a4e6-3a478a5afaad.png)
 
 - 计算机是由大型机开始，逐渐变小、运算能力变强，走入寻常百姓家
 - 企业/个人使用服务器的成本逐渐降低
@@ -252,7 +253,7 @@ systemd同样也提供了对日志访问的方式
 
 
 
-![image-20210701165151456](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701165151456.png)
+![image-20210701165151456](https://user-images.githubusercontent.com/41976490/125657250-f7489066-c5c3-4fe7-88b6-37d9c990679b.png)
 
 
 
@@ -318,7 +319,7 @@ systemd同样也提供了对日志访问的方式
 
 **裸金属服务器与传统IDC对比**
 
-![image-20210701173543052](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210701173543052.png)
+![image-20210701173543052](https://user-images.githubusercontent.com/41976490/125657274-2201e573-8845-46d7-9aae-85019086b375.png)
 
 
 
